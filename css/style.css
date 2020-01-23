@@ -1,0 +1,94 @@
+body{ 
+	font-family: Lucida Grande, sans-serif;
+	color: #ffffff;
+	background-color: #000000;
+
+  /* Default text is Lucida Grande font with a sans-serif as a fallback option*/
+
+}
+h1{
+	font-size: 64px;
+	text-align: center;
+
+  /* Header 1 is 64px, centered */
+  
+}
+h2{
+	font-size: 30px;
+	color: #ffffff;
+	text-shadow: 5px 5px 2px #808080;
+
+  /* Header 2 is 30px, with grey (#808080) drop shadow that is offset 5px horizontally, 5px vertically, and 2px blur */
+}
+p{
+	font-size: 24px;
+	padding-top:20px;
+	
+  /* Paragraphs use 24px font and have 20px padding on the top only*/
+  
+}
+img{
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	width: 525px;
+
+  /* All images are on their own line; All images are centered; All images are 525px wide with proper aspect ratio (they are not warped or stretched);*/
+ 
+}
+div{
+	height: 150px;
+	padding: 25px;
+}
+
+  /* All divs must be at least 150px tall (but will automatically be taller if needed) with 25px padding on all sides */
+
+#red{
+	background-color: red;
+	text-align: right;
+}
+
+  /* Background color is red (pick a hex value that passes the validator); Text is aligned on the right side */
+
+#blue{
+	background-color: blue;
+	text-align: left;
+}
+
+  /*  Background color is blue (pick a hex value that passes the validator); Text is aligned on the left side*/
+
+#yellow{
+	color: #000000;
+	background-color: yellow;
+	text-align: right;
+
+}
+#yellow h2{
+	color: #000000;
+	text-shadow: 5px 5px 2px #c7e2c7;
+
+}
+
+
+  /*  a.     Background color is yellow (pick a hex value that passes the validator)
+b.     Text is aligned on the right side
+c.     Header 2 and paragraph text is black
+d.     Header 2 drop shadow is #c7e2c7 with the same parameters as above*/
+
+#green {
+	background-color: green;
+	text-align: left;
+
+}
+
+/* a.     Background color is green (pick a hex value that passes the validator)
+b.     Text is aligned on the left side*/
+
+footer{
+	text-align: right;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
+
+/* Footer text is right-aligned with 10px padding on the bottom and right only*/
+
