@@ -52,14 +52,14 @@ div{
   /* Background color is red (pick a hex value that passes the validator); Text is aligned on the right side */
 
 #blue{
-	background-color: : blue;
+	background-color: blue;
 	text-align: left;
 }
 
   /*  Background color is blue (pick a hex value that passes the validator); Text is aligned on the left side*/
 
 #yellow{
-	background-color: : yellow;
+	background-color: yellow;
 	text-align: right;
 
 }
