@@ -44,14 +44,14 @@ div{
   /* All divs must be at least 150px tall (but will automatically be taller if needed) with 25px padding on all sides */
 
 #red{
-	background-color: red;
+	background-color: #ff0000;
 	text-align: right;
 }
 
   /* Background color is red (pick a hex value that passes the validator); Text is aligned on the right side */
 
 #blue{
-	background-color: blue;
+	background-color: #0000ff;
 	text-align: left;
 }
 
@@ -59,7 +59,7 @@ div{
 
 #yellow{
 	color: #000000;
-	background-color: yellow;
+	background-color: #ffff00;
 	text-align: right;
 
 }
@@ -76,7 +76,7 @@ c.     Header 2 and paragraph text is black
 d.     Header 2 drop shadow is #c7e2c7 with the same parameters as above*/
 
 #green {
-	background-color: green;
+	background-color: #006100;
 	text-align: left;
 
 }
