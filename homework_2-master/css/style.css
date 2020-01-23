@@ -1,5 +1,7 @@
 body{ 
 	font-family: Lucida Grande, sans-serif;
+	color: #ffffff;
+	background-color: #000000;
   /* Default text is Lucida Grande font with a sans-serif as a fallback option*/
 
 }
