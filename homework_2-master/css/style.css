@@ -26,48 +26,34 @@ p{
   
 }
 a{
-	color: red;
-	font-style: italic;
-	font-style: underline;
+	
   /* make your links red, italics, and underlined */
   
 }
 a:hover, a:focus{
-	border: 2px solid green;
-	background-color: black;
-	color:white;
+	
   /* make the background color of your link black and the text white when you hover over it */
   
 }
 ul{
-	color:red;
-	list-style-type: square;
   /* make bullet points red squares */
   
 }
 img{
-	width: 300px;
-	height: 220px;
-	padding:10px;
-	border: 3px;
-	border-style:dashed;
-	border-color: green;
+
   /* make the image 300px wide and 220px high, 10px of padding, and a 3px dashed border in the color of your choice */
  
 }
 footer{
-	background-color: black;
-	color: white;
+
   /* style the footer so it has a black background and white text */
   
 }
 
 li{
-	font-size: 50%;
-	color: black;
+	
 }
 .odd{
-	color:green;
-	font-size: 200%;
+	
 }
 
