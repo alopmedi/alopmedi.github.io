@@ -9,6 +9,7 @@ html{
 h1{
 	font-size: 64px;
 	text-align: center;
+	background-color: #000000;
 
   /* Header 1 is 64px, centered */
   
@@ -42,6 +43,10 @@ div{
 }
 
   /* All divs must be at least 150px tall (but will automatically be taller if needed) with 25px padding on all sides */
+
+#intro{
+	background-color: #000000;
+}
 
 #red{
 	background-color: #ff0000;
@@ -88,6 +93,7 @@ footer{
 	text-align: right;
 	padding-bottom: 10px;
 	padding-right: 10px;
+	background-color: #000000;
 }
 
 /* Footer text is right-aligned with 10px padding on the bottom and right only*/
